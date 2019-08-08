@@ -1,0 +1,14 @@
+.portfolio-image {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+h1, h3 {
+	text-align: center;
+
+}
+
+body {
+  background-color: #ff0080;
+}
